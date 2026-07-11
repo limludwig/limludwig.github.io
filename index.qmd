@@ -7,9 +7,9 @@ PhD Student in Statistics at Iowa State University.
 ## Research interests
 
 - Semiparametric efficiency
+- Non-i.i.d. Asymptotic statistics
 - Survey sampling
-- Asymptotic statistics
 
 ## Contact
 
-Email: your-email@iastate.edu
+Email: chiba**iastate.edu (** -> @)
