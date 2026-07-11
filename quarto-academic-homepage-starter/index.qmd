@@ -1,0 +1,15 @@
+---
+title: "Hiroki Chiba"
+---
+
+PhD Student in Statistics at Iowa State University.
+
+## Research interests
+
+- Semiparametric efficiency
+- Survey sampling
+- Asymptotic statistics
+
+## Contact
+
+Email: your-email@iastate.edu

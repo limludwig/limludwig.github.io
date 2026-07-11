@@ -1,0 +1,5 @@
+---
+title: "Research"
+---
+
+My research focuses on semiparametric efficiency theory, survey sampling, and asymptotic statistics. In particular, I study statistical inference under dependent sampling designs.
