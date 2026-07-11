@@ -1,24 +1,19 @@
 ---
-pagetitle: "Hiroki Chiba"
+title: "Hiroki Chiba"
+about:
+  id: profile
+  template: solana
+  image: images/profile.jpg
+  image-width: 180px
+  image-shape: rectangle
+  image-alt: "Portrait of Hiroki Chiba"
 ---
 
-:::: {.columns}
-
-::: {.column width="70%"}
-
-# Hiroki Chiba
+:::{#profile}
 
 PhD Student in Statistics at Iowa State University.
 
 :::
-
-::: {.column width="30%"}
-
-![](images/profile.jpg){width=160 fig-align="right" fig-alt="Portrait of Hiroki Chiba"}
-
-:::
-
-::::
 
 ## Research interests
 
