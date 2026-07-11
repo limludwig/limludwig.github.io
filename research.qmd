@@ -1,5 +1,0 @@
----
-title: "Research"
----
-
-My research focuses on semiparametric efficiency theory.
