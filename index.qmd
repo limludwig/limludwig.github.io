@@ -12,4 +12,4 @@ PhD Student in Statistics at Iowa State University.
 
 ## Contact
 
-Email: chiba**iastate.edu (** -> @)
+Email: chiba[@]iastate.edu
