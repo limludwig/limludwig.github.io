@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Working papers and publications will be listed here."
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "View or download my CV"
+    "text": "Working papers\nDetails will be added here.\n\n\nPublications\nDetails will be added here.\n\n\nPresentations\nDetails will be added here."
   },
   {
     "objectID": "index.html",
@@ -33,5 +26,19 @@
     "title": "Hiroki Chiba",
     "section": "Contact",
     "text": "Contact\nEmail: chiba[@]iastate.edu"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "View or download my CV"
+  },
+  {
+    "objectID": "miscellanea.html",
+    "href": "miscellanea.html",
+    "title": "Miscellanea",
+    "section": "",
+    "text": "Details will be added here."
   }
 ]

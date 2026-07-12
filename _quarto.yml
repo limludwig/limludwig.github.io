@@ -10,10 +10,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: publications.qmd
-        text: Publications
+      - href: research.qmd
+        text: Research
       - href: cv.qmd
         text: CV
+      - href: miscellanea.qmd
+        text: Miscellanea
 
 format:
   html:
