@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CV_Hiroki_Chiba_HP.pdf
 
 website:
   title: "Hiroki Chiba"

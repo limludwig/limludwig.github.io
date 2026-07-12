@@ -2,4 +2,4 @@
 title: "CV"
 ---
 
-A PDF version of my CV will be added here.
+[View or download my CV](CV_Hiroki_Chiba_HP.pdf){.btn .btn-primary}
