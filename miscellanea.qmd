@@ -2,4 +2,58 @@
 title: "Miscellanea"
 ---
 
-Details will be added here.
+<style>
+.poem {
+  max-width: 34rem;
+  margin: 2rem auto 0 auto;
+  font-family: Baskerville, "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+  font-size: 1.15rem;
+  line-height: 1.75;
+  letter-spacing: 0.01em;
+}
+
+.poem p {
+  margin-bottom: 1.6rem;
+}
+</style>
+
+<div class="poem">
+
+<p>
+Intuition comes in two—<br>
+warm and cold.
+</p>
+
+<p>
+The warm is joy,<br>
+the heart’s own way.<br>
+The cold is grammar,<br>
+our common way.
+</p>
+
+<p>
+Learning takes the cold in hand<br>
+and kindles there a flame.<br>
+Research lets the warm run wild<br>
+and gives the flame a frame.
+</p>
+
+<p>
+Talent is its voltage.
+</p>
+
+<p>
+Frame into flame,<br>
+flame into frame—<br>
+round and round again.
+</p>
+
+<p>
+Yet even a circle needs a first step.
+</p>
+
+<p>
+Let mine be warm.
+</p>
+
+</div>
