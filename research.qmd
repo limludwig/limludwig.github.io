@@ -4,6 +4,6 @@ title: "Research"
 
 ### Preprints
 
-**Semiparametric Efficient Inference under Non-Informative Complex Survey Designs**  
+[1] **Semiparametric Efficient Inference under Non-Informative Complex Survey Designs**  
 Hiroki Chiba and Kosuke Morikawa  
 [arXiv](https://arxiv.org/abs/2609.17288)
