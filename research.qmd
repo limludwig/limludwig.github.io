@@ -2,10 +2,8 @@
 title: "Research"
 ---
 
-### Papers
+### Preprints
 
-Details will be added here.
-
-### Presentations
-
-Details will be added here.
+**Semiparametric Efficient Inference under Non-Informative Complex Survey Designs**  
+Hiroki Chiba and Kosuke Morikawa  
+[arXiv](https://arxiv.org/abs/2609.17288)
