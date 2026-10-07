@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Hiroki Chiba"
+  google-analytics: "G-82H90GCWX5"
   navbar:
     left:
       - href: index.qmd
